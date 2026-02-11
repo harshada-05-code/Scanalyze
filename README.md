@@ -152,7 +152,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Your Name - wankhedeharshada14@gmail.com
 
-Project Link: [https://github.com/yourusername/medical-image-analysis](https://github.com/yourusername/medical-image-analysis)
+Project Link: [https://github.com/harshada-05-code/Scanalyze](https://github.com/harshada-05-code/Scanalyze)
 
 ## 🙏 Acknowledgments
 
